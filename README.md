@@ -3,7 +3,7 @@
 - zaidkhan27 (Enterprise contributions till 2025)
 - mohammed-zaid_saama (Internal enterprise account)
 
-Author: Mohammed Zaid Khan  
+Author: Mohammed Zaid Dawood Khan  
 Principal Data Engineer | Clinical Data | Big Data Architect | Clinical & Healthcare Data Systems
 
 ## Expertise
